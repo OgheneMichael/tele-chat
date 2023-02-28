@@ -2164,9 +2164,9 @@ tapable@^2.2.0:
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-2.2.1.tgz#1967a73ef4060a82f12ab96af86d52fdb76eeca0"
   integrity sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==
 
-"teleparty-websocket-lib@https://github.com/OgheneMichael/teleparty-websocket-lib":
+"teleparty-websocket-lib@https://github.com/OgheneMichael/tl-wbs":
   version "1.0.4"
-  resolved "https://github.com/OgheneMichael/teleparty-websocket-lib#fcf0dc14b88d1055a5d4273978e8567b2873f6ff"
+  resolved "https://github.com/OgheneMichael/tl-wbs#cef2cef4aaebb9ea91d429bc90e087ece585e6d7"
 
 text-table@^0.2.0:
   version "0.2.0"
