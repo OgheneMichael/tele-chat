@@ -21,7 +21,7 @@ export default function Home() {
       </Head>
       <main className="h-screen flex flex-col">
 
-        {connectionReady ?
+        {!connectionReady ?
           <div className="relative flex flex-col place-self-center flex h-screen">
             <svg className="place-self-center animate-spin h-20 w-20 text-indigo-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
               <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
